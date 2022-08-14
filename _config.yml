@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+blog:
+  title                      : JYSG Never End
+  description                  : >
+                               这是兴趣使然的个人小站，来这里开心就好了。
